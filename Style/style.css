@@ -1,0 +1,41 @@
+body{
+  background-color: #E5DCC3;
+}
+h1 {
+  text-align: center;
+  margin-top: 3%;
+}
+h2{
+  text-align: center;
+  margin-top: 3%;
+}
+.button {
+
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  cursor: pointer;
+  background-color: #506D84;
+  display: grid;
+  margin: auto;
+}
+
+.button1{
+  display: inherit;
+  font-size: 12px;
+  margin-top: 15px;
+}
+.button:hover {
+  background-color: #889EAF;
+  color: black;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: none;
+}
